@@ -9,3 +9,9 @@
     width: 300px;
     border: 1px solid black;
 }
+
+.footer{
+    padding: 200px;
+    background-color: cornflowerblue;
+    color: white;
+}
