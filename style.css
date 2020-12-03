@@ -13,7 +13,9 @@ body{
     color: black;
     background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/00/04/53/9556248b4747950.png");
 }
-//* added fixed footers *//
+
+/* added fixed footers */
+
 .footer {
     position: fixed;
     left: 0;
