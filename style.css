@@ -5,10 +5,7 @@ h1{
     font-size: 50px;
     text-align: center;
     text-decoration: underline;
-}
-
-h2{
-    text-decoration: underline;
+    font-style: italic;
 }
 
 body{
@@ -16,11 +13,14 @@ body{
     color: black;
     background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/00/04/53/9556248b4747950.png");
 }
-
-.img-thumbnail{
-    height: 300px;
-    width: 300px;
-    border: 1px solid black;
-
+//* added fixed footers *//
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: italic;
 }
-
